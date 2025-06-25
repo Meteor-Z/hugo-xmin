@@ -1,8 +1,9 @@
 body {
-  max-width: 800px;
+  max-width: 900px;
   margin: auto;
   padding: 1em;
   line-height: 1.5;
+  font-size: 1.1em;
 }
 
 /* header and footer areas */
@@ -14,6 +15,7 @@ body {
   padding: 5px;
   border-radius: 5px;
 }
+.terms { font-size: .9em; }
 .menu, .article-meta, footer { text-align: center; }
 .title { font-size: 1.1em; }
 footer a { text-decoration: none; }
